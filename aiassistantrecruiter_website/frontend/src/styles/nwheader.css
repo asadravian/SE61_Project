@@ -1,0 +1,17 @@
+ul.nav a:focus,
+.active {
+  color: white;
+  border-radius: 0px;
+  font-weight: 600;
+  border-bottom: 3px solid #dc3545;
+}
+ul.nav a:hover {
+  border-radius: 2px;
+  color: #dc3545;
+  background-color: inherit; /* to give the parent element's color */
+  border: 0; /* to remove the bottom border*/
+}
+
+ul li a {
+  color: white;
+}

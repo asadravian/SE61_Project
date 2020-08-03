@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="webchat"/>
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-0.5.8.js"></script>
+// Or you can replace webchat-latest.js with a specific version
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+	initPayload: "/greet", // initial message send to rasa
+	//interval: 1000, //1000ms i.e. 1 sec delay between each message
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://localhost:5005",
+    socketPath: "/socket.io/",
+    title: "Preliminary Interview",
+    subtitle: "AI Assistant Recruiter",
+	//inputTextFieldHint: "Start the conversation so that the recruiter knows you are there!"
+	params: {storage: "session"}
+  })
+</script>
+</body>
+</html>

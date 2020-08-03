@@ -1,0 +1,461 @@
+actions:
+- utter_about_next_interview_if_criteria_passed
+- utter_after_human_does_not_like_any_given_date_of_next_interview
+- utter_after_human_selects_a_date_of_next_interview
+- utter_ask_Q1
+- utter_ask_Q10
+- utter_ask_Q11
+- utter_ask_Q12
+- utter_ask_Q13
+- utter_ask_Q14
+- utter_ask_Q15
+- utter_ask_Q16
+- utter_ask_Q17
+- utter_ask_Q18
+- utter_ask_Q19
+- utter_ask_Q2
+- utter_ask_Q20
+- utter_ask_Q21
+- utter_ask_Q22
+- utter_ask_Q23
+- utter_ask_Q23_Extended
+- utter_ask_Q24
+- utter_ask_Q25
+- utter_ask_Q3
+- utter_ask_Q4
+- utter_ask_Q5_A
+- utter_ask_Q5_B
+- utter_ask_Q6
+- utter_ask_Q7
+- utter_ask_Q8
+- utter_ask_Q9
+- utter_ask_candidate_gender
+- utter_ask_candidate_name
+- utter_ask_city
+- utter_ask_to_begin_interview
+- utter_before_asking_candidate_gender
+- utter_before_last_question
+- utter_brief_about_interview
+- utter_confirm_candidate_city
+- utter_confirm_candidate_gender
+- utter_default
+- utter_goodbye
+- utter_greet_and_tell_bot_name
+- utter_greet_with_human_name
+- utter_greet_without_human_name
+- utter_iamabot
+- utter_muslim_goodbye
+- utter_muslim_greeting
+- utter_no_email
+- utter_no_further_info
+- utter_no_speak
+- utter_not_sure
+- utter_response_to_muslim_greeting
+- utter_response_to_muslim_thankyou
+- utter_response_to_thankyou
+entities:
+- city
+- framework
+- gender
+- name
+- programming_lang
+forms:
+- preliminary_interview_questions_form
+intents:
+- telling_name
+- muslim_greet
+- tomorrow
+- deny
+- collaborative
+- telling_frameworks
+- answer_the_question
+- competitive_salary_with_benefits
+- telling_primary_programming_languages
+- telling_city
+- affirm
+- telling_gender
+- leader
+- programming
+- greet
+- response_to_muslim_greet
+- goodbye
+- muslim_goodbye
+- non-programming
+- competitive_salary
+- average_salary
+- low_salary
+- this_week
+- next_week
+- this_month
+- next_month
+- next_year
+- after_graduation
+- follower
+- independent
+- mood_great
+- mood_unhappy
+- bot_challenge:
+    triggers: utter_iamabot
+- thanks:
+    triggers: utter_response_to_thankyou
+- muslim_thanks:
+    triggers: utter_response_to_muslim_thankyou
+responses:
+  utter_about_next_interview_if_criteria_passed:
+  - text: 'We would like to invite you for in-person interview! Please select the
+      best time below: 1. [Monday July 2 at 2pm](date) 2. [Tuesday July 3 at 10am](date)
+      3. [More](wants_more_date_options)'
+  utter_after_human_does_not_like_any_given_date_of_next_interview:
+  - text: Looks like you have a busy schedule! Please tell us the date and time that
+      best suits you. We will check if we can accomodate you on that time slot.
+  utter_after_human_selects_a_date_of_next_interview:
+  - text: Awesome - you are all booked for {date}. Good Luck!
+  utter_ask_Q1:
+  - text: Have you worked anywhere before? Regardless of the software industry.
+  - text: Have you been hired before in any organization or it's your first job interview?
+  - text: Have you worked at a job before?
+  utter_ask_Q10:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Would you work holidays/weekends?
+  utter_ask_Q11:
+  - text: Discuss your educational background.
+  utter_ask_Q12:
+  - text: State your primary programming languages?
+  utter_ask_Q13:
+  - buttons:
+    - payload: /programming
+      title: Prefer Programming Tasks
+    - payload: /non-programming
+      title: Prefer Non-Programming Tasks
+    text: Do you like programming or prefer non-programming tasks?
+  utter_ask_Q14:
+  - text: What is your highest GPA in a programming subject?
+  utter_ask_Q15:
+  - text: What is your lowest GPA in a programming subject?
+  utter_ask_Q16:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Are you willing to relocate?
+  utter_ask_Q17:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Are you willing to travel?
+  utter_ask_Q18:
+  - buttons:
+    - payload: /leader
+      title: Leader
+    - payload: /follower
+      title: Follower
+    text: Are you a leader or a follower?
+  utter_ask_Q19:
+  - buttons:
+    - payload: /collaborative
+      title: Collaborative
+    - payload: /independent
+      title: Independent
+    text: What is your ideal work environment? [collaborative or independent]
+  utter_ask_Q2:
+  - text: Are you currently employed?
+  utter_ask_Q20:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Have you got any experience of version control softwares?
+  utter_ask_Q21:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Have you got knowledge of OOP concepts?
+  utter_ask_Q22:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Do you know GoF design patterns and have you implemented them?
+  utter_ask_Q23:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Do you know any software framework of any programming language?
+  utter_ask_Q23_Extended:
+  - text: Could you please name these frameworks?
+  - text: Please name these frameworks?
+  - text: Name these frameworks, will you?
+  utter_ask_Q24:
+  - text: What work sample can you provide that most clearly demonstrates your qualifications
+      for this job?
+  utter_ask_Q25:
+  - text: Have you done any freelancing? Please share your profile link, if any.
+  utter_ask_Q3:
+  - text: Why are you interested in working for our company?
+  utter_ask_Q4:
+  - text: What is about this role that particularly interests you?
+  utter_ask_Q5_A:
+  - text: What makes you want to leave your current job?
+  utter_ask_Q5_B:
+  - text: Why did you leave your last job?
+  utter_ask_Q6:
+  - text: What are the three things your former manager would like you to improve
+      on?
+  utter_ask_Q7:
+  - buttons:
+    - payload: /tomorrow
+      title: Tomorrow
+    - payload: /this_week
+      title: This Week
+    - payload: /next_week
+      title: Next Week
+    - payload: /this_month
+      title: This Month
+    - payload: /next_month
+      title: Next Month
+    - payload: /next_year
+      title: Next Year
+    - payload: /after_graduation
+      title: After Graduation
+    text: 'When are you able to commence in a new role? '
+  utter_ask_Q8:
+  - buttons:
+    - payload: /competitive_salary_with_benefits
+      title: Market competitive salary with benefits
+    - payload: /competitive_salary
+      title: Market competitive salary
+    - payload: /average_salary
+      title: Average salary
+    - payload: /low_salary
+      title: Low salary, gain experience
+    text: What are your salary expectations?
+  utter_ask_Q9:
+  - buttons:
+    - payload: /affirm
+      title: Yes
+    - payload: /deny
+      title: No
+    text: Would you work 40+ hours a week?
+  utter_ask_candidate_gender:
+  - text: Excuse me, but what is your gender?
+  - text: What is your gender?
+  - text: Would you please tell me your gender.
+  - text: Would you mind telling me your gender.
+  - text: Please tell me your gender.
+  utter_ask_candidate_name:
+  - text: Enter your name, please.
+  - text: What is your name?
+  - text: Your name?
+  - text: Please tell me your name.
+  utter_ask_city:
+  - text: Where do you live? Tell me just the city name
+  - text: What city do you live in?
+  - text: Which city do you live in?
+  - text: In what city do you live?
+  - text: In which city do you live?
+  - text: In which city are you located?
+  - text: Which city are you located in?
+  - text: Which city are you located?
+  - text: Where are you located? Just need to know the city.
+  - text: In which city do you live in?
+  utter_ask_to_begin_interview:
+  - text: Should we begin the interview?
+  - text: Should we get started with the interview?
+  - text: Let's proceed to the interview. Shall we?
+  utter_before_asking_candidate_gender:
+  - text: Our organization tries to maintain a balance of the ratio of men and women
+      in the organization. For this, we reserve some slots for females.
+  - text: For gender diversity our organization reserves slots for different genders.
+      We give edge to people that are found rare in our organization.
+  - text: We have experienced gender balance as something unique and healthy. We encourage
+      and give preference to all genders.
+  - text: We respect gender fluidity by recruiting every type of individual, especially
+      the ones our organization lacks.
+  utter_before_last_question:
+  - text: So, this is the last question.
+  - text: Last but not least.
+  - text: Last question.
+  - text: Finally.
+  utter_brief_about_interview:
+  - text: The interview will consist of several questions. These questions should
+      be answered concisely. Be comfortable and honest with me. This is not a technical
+      interview.
+  - text: This interview will be composed of several questions. Answers should be
+      concise. This is a preliminary interview. Be comfortable and honest.
+  utter_confirm_candidate_city:
+  - text: '{city}. Okay.'
+  - text: Noting down, city as {city}
+  - text: Let me note down it ... {city}.
+  - text: City is... {city}
+  - text: Jotting down, {city} as your city.
+  utter_confirm_candidate_gender:
+  - text: '{gender}. Okay.'
+  - text: Noting down, gender as {gender}
+  - text: Let me note down it ... {gender}.
+  - text: Gender is... {gender}
+  - text: Jotting down, {gender} as your gender.
+  utter_default:
+  - text: Sorry, I didn't get that 🤷. Could you please rephrase?
+  - text: I didn't understand, could you rephrase that?
+  - text: I'm sorry, but I didn't understand you. Could you please rephrase what you
+      just said?
+  - text: I'm afraid I didn't get what you just said. Could you rephrase that?
+  - text: I didn't quite get that, could you rephrase your message?
+  - text: Could you rephrase your message? I didn't get it, I'm sorry.
+  utter_goodbye:
+  - text: Thank you for your time.
+  - text: Nice to meet you.
+  - text: Hope to see you in the next interview!
+  utter_greet_and_tell_bot_name:
+  - text: Hey there, my name is Ali.
+  - text: Hi, I'm Ali!
+  - text: Hi! My name's Ali.
+  utter_greet_with_human_name:
+  - text: Hi, {name}!
+  - text: Hello, {name}!
+  - text: Hey, {name}!
+  - text: Assalamu Alaikum, {name}!
+  utter_greet_without_human_name:
+  - text: Hey!
+  - text: Hi!
+  - text: Hey there!
+  utter_iamabot:
+  - text: Yes, I am a bot. Currently, a virtual assistant to the HR Manager of the
+      organization you want to join. These conversations are monitored by the concerned
+      organization personnel.
+  utter_muslim_goodbye:
+  - text: Allah Hafiz
+  - text: Khuda Hafiz
+  utter_muslim_greeting:
+  - text: Assalamu Alaikum
+  utter_no_email:
+  - text: Hmm, I'm not sure that's a valid email, please make sure to include the
+      full address 😅
+  utter_no_further_info:
+  - text: Sorry, that's all the info I've got on that subject 😕
+  utter_no_speak:
+  - text: I'm afraid we cannot have this conversation
+  utter_not_sure:
+  - text: Hmm, not sure what you mean...
+  utter_response_to_muslim_greeting:
+  - text: Waalikum Assalam
+  utter_response_to_muslim_thankyou:
+  - text: Wa ʾIyyāk
+  - text: Wa ʾIyyākum
+  - text: Wa ʾAntum Fa-jazākumu-llāhu Khayran
+  utter_response_to_thankyou:
+  - text: No worries!
+  - text: It's nothing
+  - text: No problem
+  - text: You're welcome!
+  - text: I'm happy to help.
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+slots:
+  Q1:
+    auto_fill: false
+    type: unfeaturized
+  Q10:
+    auto_fill: false
+    type: unfeaturized
+  Q11:
+    auto_fill: false
+    type: unfeaturized
+  Q12:
+    auto_fill: false
+    type: unfeaturized
+  Q13:
+    auto_fill: false
+    type: unfeaturized
+  Q14:
+    auto_fill: false
+    type: unfeaturized
+  Q15:
+    auto_fill: false
+    type: unfeaturized
+  Q16:
+    auto_fill: false
+    type: unfeaturized
+  Q17:
+    auto_fill: false
+    type: unfeaturized
+  Q18:
+    auto_fill: false
+    type: unfeaturized
+  Q19:
+    auto_fill: false
+    type: unfeaturized
+  Q2:
+    auto_fill: false
+    type: unfeaturized
+  Q20:
+    auto_fill: false
+    type: unfeaturized
+  Q21:
+    auto_fill: false
+    type: unfeaturized
+  Q22:
+    auto_fill: false
+    type: unfeaturized
+  Q23:
+    auto_fill: false
+    type: unfeaturized
+  Q23_Extended:
+    auto_fill: false
+    type: unfeaturized
+  Q24:
+    auto_fill: false
+    type: unfeaturized
+  Q25:
+    auto_fill: false
+    type: unfeaturized
+  Q3:
+    auto_fill: false
+    type: unfeaturized
+  Q4:
+    auto_fill: false
+    type: unfeaturized
+  Q5_A:
+    auto_fill: false
+    type: unfeaturized
+  Q5_B:
+    auto_fill: false
+    type: unfeaturized
+  Q6:
+    auto_fill: false
+    type: unfeaturized
+  Q7:
+    auto_fill: false
+    type: unfeaturized
+  Q8:
+    auto_fill: false
+    type: unfeaturized
+  Q9:
+    auto_fill: false
+    type: unfeaturized
+  city:
+    type: text
+  framework:
+    type: list
+  gender:
+    type: text
+  name:
+    type: text
+  programming_lang:
+    type: list
+  requested_slot:
+    type: unfeaturized

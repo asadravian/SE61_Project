@@ -1,0 +1,10 @@
+ul.nav a:hover,
+ul.nav a:focus,
+.active {
+  background-color: brown;
+  color: white;
+}
+
+ul li a {
+  color: white;
+}

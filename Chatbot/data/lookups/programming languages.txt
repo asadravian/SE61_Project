@@ -1,0 +1,71 @@
+Java
+C	
+Python
+Py
+C++
+C#	
+JavaScript
+JS
+Java Script
+PHP	
+SQL
+Swift	
+Ruby
+Ruby on Rails	
+Objective-C
+Objective C
+Lisp	
+Fortran
+Ada	
+Pascal
+Delphi
+Object Pascal
+D
+Lisp
+Dart
+SAS
+Transact-SQL
+Logo
+COBOL
+Kotlin
+Groovy
+Scala
+Julia
+ABAP
+PowerShell
+OpenEdge ABL
+Fortran
+Lua
+VBScript
+Ada
+Visual FoxPro
+FoxPro
+ML
+LabVIEW
+TypeScript
+Apex
+Haskell
+Scheme
+Prolog
+ActionScript
+Bash
+C
+Java
+Python
+C++
+C#
+Visual Basic
+JavaScript
+PHP
+R
+SQL
+Swift
+Go
+Ruby
+Assembly language
+MATLAB
+Perl
+PL/SQL
+Scratch
+Classic Visual Basic
+Rust

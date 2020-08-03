@@ -1,0 +1,1090 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- Hi bot
+- Hey bot
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- assalamu alaikum
+- salaam
+- hello is anybody there
+- hello robot
+- who are you?
+- what are you?
+- what's up
+- how do you do?
+- hi, this is [Shaharyar](name)
+- hello, this is [Ayesha](name)
+- hey, my name is [Shaharyar](name)
+- hola, this is [john](name)
+- hey, I am [Jack](name)
+- hello, [Shaharyar](name) is my name
+
+## intent:muslim_greet
+- A.A
+- assalamu alaikum
+- salaam
+- assalamu alaikum, this is [Shaharyar](name)
+- salaam, this is [Ayesha](name)
+- assalamu alaikum, my name is [Shaharyar](name)
+- salaam, this is [Mohsin](name)
+- salaam, my name is [Shaharyar](name)
+- assalamu alaikum, I am [Mohsin](name)
+- assalamu alaikum, [Shaharyar](name) is my name
+- Assalamu Alaikum
+
+## intent:response_to_muslim_greet
+- W.S
+- Waalikum Assalam
+- Walikum Asalam
+- Waaliqum Assalaam
+
+## intent:telling_gender
+- [male](gender)
+- [female](gender)
+- [Male](gender)
+- [Female](gender)
+- I am a [male](gender)
+- I am a [female](gender)
+- [m](gender)
+- [f](gender)
+- [M](gender)
+- [F](gender)
+- I'm a [male](gender)
+- I'm a [female](gender)
+- It is [male](gender)
+
+## intent:telling_name
+- this is [Shaharyar](name)
+- this is [Shaharyar](name) Khan
+- this is [Ayesha](name)
+- this is [Ayesha](name) Imran
+- My name is [Saira](name) Tanveer
+- My name is [Ayesha](name) Nawaz
+- My name is [Ayesha](name) Arham
+- My name is [Neha](name) Ammaar
+- My name is [Ayesha](name) Aamer
+- My name is [Momina](name) Aryan
+- My name is [Ayesha](name) Ayaan
+- My name is [Maryam](name) Faizan
+- My name is [Ayesha](name) Hamza
+- My name is [Aliya](name) Huzaifa
+- My name is [Ayesha](name) Rayan
+- My name is [Nazia](name) Rohaan
+- My name is [Ayesha](name) Abbas
+- My name is [Fozia](name) Abdul
+- My name is [Hania](name) Abdullah
+- my name is Muhammad [Shaharyar](name) Khan
+- my name is Muhammad [Mohsin](name) Mehdi
+- my name is [Fareeha](name) Iftikhar
+- my name is Muhammad [Aamer](name) Mehmood
+- my name is Syed Muhammad [Nouman](name) Kazmi
+- my name is Syed [Imran](name)
+- my name is [Shaharyar](name)
+- my name is [Shaharyar](name) Jadoon
+- this is [Mohsin](name)
+- this is [Mohsin](name) Mehdi
+- I am [Mohsin](name)
+- I am [Mohsin](name) Jutt
+- [Shaharyar](name) is my name
+- [Shaharyar](name) Khan is my name
+- [Shaharyar](name)
+- [Ayesha](name)
+- [Ayesha](name) Khan
+- [Uzair](name) Malik
+- I'm [Mohsin](name)
+- I'm [Fareeha](name)
+- I'm [Fareeha](name) Iftikhar
+- I'm [Shaharyar](name) Buledi
+- I'm [Sohaib](name) Bulfati
+- I'm [Anees](name) Buzdar
+- I'm [Soban](name) Chandio
+- I'm [Hammad](name) Chhalgari
+- I'm [Shaharyar](name) Damanis
+- I'm [Sohaib](name) Darzada
+- I'm [Sohaib](name) Dehwar
+- I'm [Shaharyar](name) Dewala
+- I'm [Sohaib](name) Domki
+- I'm [Shaharyar](name) Gabol
+- I'm [Shaharyar](name) Golo
+- I'm [Shaharyar](name) Gadhi
+- I'm [Shaharyar](name) Gashkori
+- I'm [Shaharyar](name) Ghazini
+- I'm [Sohaib](name) Gurmani
+- I'm [Sohaib](name) Jagirani
+- I'm [Sohaib](name) Jalbani
+- I'm [Sohaib](name) Jamali
+- I'm [Sohaib](name) Jarwar
+- I'm [Sohaib](name) Jatoi
+- I'm [Sohaib](name) Jiskani
+- I'm [Sohaib](name) Kalmati
+- I'm [Sohaib](name) Kalpar
+- I'm [Sohaib](name) Kambarzahi
+- I'm [Sohaib](name) Kashani
+- I'm [Sohaib](name) Kenagzai
+- I'm [Sohaib](name) Khalol
+- I'm [Sohaib](name) Khetran
+- I'm [Sohaib](name) Khosa
+- I'm [Sohaib](name) Khushk
+- I'm [Sohaib](name) Korai
+- I'm [Sohaib](name) Khara
+- I'm [Sohaib](name) Langhani
+- I'm [Sohaib](name) Lanjwani
+- I'm [Sohaib](name) Loharani
+- I'm [Sohaib](name) Lund
+- I'm [Sohaib](name) Magsi
+- I'm [Sohaib](name) Malik
+- I'm [Sohaib](name) Marri
+- I'm [Sohaib](name) Mazari
+- I'm [Sohaib](name) Mirza
+- I'm [Sohaib](name) Mugheri
+- I'm [Sohaib](name) Nothazai
+- I'm [Sohaib](name) Pitafi
+- I'm [Sohaib](name) Qaisrani
+- I'm [Sohaib](name) Rahija
+- I'm [Sohaib](name) Rahmanzai
+- I'm [Sohaib](name) Rind
+- I'm [Sohaib](name) Ravani
+- I'm [Sohaib](name) Sadozai
+- I'm [Sohaib](name) Saifi
+- I'm [Sohaib](name) Sanjrani
+- I'm [Sohaib](name) Satti
+- I'm [Sohaib](name) Sethwi
+- I'm [Sohaib](name) Shambhani
+- I'm [Sohaib](name) Sherzai
+- I'm [Sohaib](name) Shirani
+- I'm [Sohaib](name) Syed
+- I'm [Sohaib](name) Thingani
+- I'm [Sohaib](name) Talpur
+- I'm [Sohaib](name) Umrani
+- I'm [Sohaib](name) Wadeyla
+- I'm [Sohaib](name) Zardari
+- I'm [Anees](name) Bangulzai
+- I'm [Anees](name) Bizenjo
+- I'm [Anees](name) Bahrani
+- I'm [Anees](name) Hasni
+- I'm [Anees](name) Jhalawan
+- I'm [Anees](name) Khan-e-Qalat
+- I'm [Anees](name) Qalat
+- I'm [Anees](name) Kharal
+- I'm [Anees](name) Kurd
+- I'm [Anees](name) Lango
+- I'm [Anees](name) Lehri
+- I'm [Anees](name) Mirwani
+- I'm [Anees](name) Mengal
+- I'm [Anees](name) Shahi
+- I'm [Anees](name) Raisani
+- I'm [Anees](name) Rodini
+- I'm [Anees](name) Sarpara
+- I'm [Anees](name) Alpial
+- I'm [Anees](name) Bhatia
+- I'm [Anees](name) Lakhani
+- I'm [Anees](name) Memon
+- I'm [Anees](name) Patel
+- I'm [Anees](name) Butt
+- I'm [Anees](name) Dar
+- I'm [Anees](name) Shaikh
+- I'm [Anees](name) Sheikh
+- I'm [Anees](name) Khan
+- I'm [Anees](name) Khawaja
+- I'm [Anees](name) Lone
+- I'm [Anees](name) Malik
+- I'm [Anees](name) Maliq
+- I'm [Anees](name) Mir
+- I'm [Anees](name) Wani
+- I'm [Soban](name) Arain
+- I'm [Soban](name) Aulakh
+- I'm [Soban](name) Ansari
+- I'm [Soban](name) Awan
+- I'm [Soban](name) Bahmani
+- I'm [Soban](name) Bajwa
+- I'm [Soban](name) angial
+- I'm [Soban](name) Basra
+- I'm [Soban](name) Baig
+- I'm [Soban](name) Bhabra
+- I'm [Soban](name) Batwal
+- I'm [Soban](name) Bhatti
+- I'm [Soban](name) Bhutta
+- I'm [Soban](name) Barsar
+- I'm [Soban](name) Buttar
+- I'm [Soban](name) Chaudhry
+- I'm [Soban](name) Chatha
+- I'm [Soban](name) Chauhan
+- I'm [Soban](name) Chughtai
+- I'm [Soban](name) Derawal
+- I'm [Soban](name) Dhariwal
+- I'm [Soban](name) Dhillon
+- I'm [Soban](name) Dogar
+- I'm [Soban](name) Duggal
+- I'm [Soban](name) Gakhar
+- I'm [Soban](name) Gill
+- I'm [Soban](name) Gujjar
+- I'm [Soban](name) Gurmani
+- I'm [Soban](name) Ibrahim
+- I'm [Soban](name) Indra
+- I'm [Soban](name) Iqbal
+- I'm [Soban](name) Janjua
+- I'm [Soban](name) Jatt
+- I'm [Soban](name) Jutt
+- I'm [Soban](name) Johiya
+- I'm [Soban](name) Kathia
+- I'm [Soban](name) Kahloon
+- I'm [Soban](name) Kayani
+- I'm [Soban](name) Khara
+- I'm [Soban](name) Khan
+- I'm [Soban](name) Khandowa
+- I'm [Soban](name) Kharal
+- I'm [Soban](name) Khokhar
+- I'm [Soban](name) Kamboh
+- I'm [Soban](name) Kirmani
+- I'm [Soban](name) Sahni
+- I'm [Soban](name) Khawaja
+- I'm [Soban](name) Langah
+- I'm [Soban](name) Baloch
+- I'm [Soban](name) Langra
+- I'm [Soban](name) Langrial
+- I'm [Soban](name) Lau
+- I'm [Soban](name) Leel
+- I'm [Soban](name) Longi
+- I'm [Soban](name) Machi
+- I'm [Soban](name) Mahar
+- I'm [Soban](name) Mahtam
+- I'm [Soban](name) Makhdoom
+- I'm [Soban](name) Malik
+- I'm [Soban](name) Meghwar
+- I'm [Soban](name) Meo
+- I'm [Soban](name) Mirza
+- I'm [Soban](name) Mian
+- I'm [Soban](name) Mighiana
+- I'm [Soban](name) Minhas
+- I'm [Soban](name) Mughal
+- I'm [Soban](name) Muslim
+- I'm [Soban](name) Khatris
+- I'm [Soban](name) Rajput
+- I'm [Soban](name) Nanda
+- I'm [Soban](name) Naqvi
+- I'm [Soban](name) Paracha
+- I'm [Soban](name) Parihar
+- I'm [Soban](name) Passi
+- I'm [Soban](name) Patel
+- I'm [Soban](name) Sheikh
+- I'm [Soban](name) Qureshi
+- I'm [Soban](name) Raja
+- I'm [Soban](name) Ranjha
+- I'm [Soban](name) Roy
+- I'm [Soban](name) Sahi
+- I'm [Soban](name) Sangha
+- I'm [Soban](name) Sanghera
+- I'm [Soban](name) Satti
+- I'm [Soban](name) Sehgal
+- I'm [Soban](name) Sukhera
+- I'm [Soban](name) Sethi
+- I'm [Hammad](name) Abro
+- I'm [Hammad](name) Arain
+- I'm [Hammad](name) Bhan
+- I'm [Hammad](name) Bhatti
+- I'm [Hammad](name) Bhutto
+- I'm [Hammad](name) Buriro
+- I'm [Hammad](name) Chachar
+- I'm [Hammad](name) Chandio
+- I'm [Hammad](name) Daudpota
+- I'm [Hammad](name) Hingora
+- I'm [Hammad](name) Hingorja
+- I'm [Hammad](name) Jogi
+- I'm [Hammad](name) Junejo
+- I'm [Hammad](name) Kalhoro
+- I'm [Hammad](name) Kalwar
+- I'm [Hammad](name) Khaskheli
+- I'm [Hammad](name) Khoso
+- I'm [Hammad](name) Khuhro
+- I'm [Hammad](name) Khushk
+- I'm [Hammad](name) Kumbhar
+- I'm [Hammad](name) Lakhani
+- I'm [Hammad](name) Mahar
+- I'm [Hammad](name) Malak
+- I'm [Hammad](name) Mahesar
+- I'm [Hammad](name) Memon
+- I'm [Hammad](name) Mirani
+- I'm [Hammad](name) Mirbahar
+- I'm [Hammad](name) Mugheri
+- I'm [Hammad](name) Rind
+- I'm [Hammad](name) Samejo
+- I'm [Hammad](name) Samma
+- I'm [Hammad](name) Shah
+- I'm [Hammad](name) Shar
+- I'm [Hammad](name) Sheedi
+- I'm [Haroon](name) Ansari
+- I'm [Haroon](name) Arain
+- I'm [Haroon](name) Awan
+- I'm [Haroon](name) Bhait
+- I'm [Haroon](name) Bhangar
+- I'm [Haroon](name) Bhati
+- I'm [Haroon](name) Bhutta
+- I'm [Haroon](name) Bosan
+- I'm [Haroon](name) Bukhari
+- I'm [Haroon](name) Chachar
+- I'm [Haroon](name) Chandio
+- I'm [Haroon](name) Chughtai
+- I'm [Haroon](name) Hashmi
+- I'm [Haroon](name) Kalwar
+- I'm [Haroon](name) Khokhar
+- I'm [Haroon](name) Khoso
+- I'm [Haroon](name) Laar
+- I'm [Haroon](name) Langah
+- I'm [Haroon](name) Makhdoom
+- I'm [Haroon](name) Malik
+- I'm [Haroon](name) Noon
+- I'm [Haroon](name) Panwar
+- I'm [Haroon](name) Qureshi
+- I'm [Haroon](name) Rind
+- I'm [Haroon](name) Ravani
+- I'm [Haroon](name) Raronjah
+- I'm [Haroon](name) Shah
+- I'm [Haroon](name) Sial
+- I'm [Haroon](name) Sipra
+- I'm [Haroon](name) Soomro
+- I'm [Shaharyar](name) Achakzai
+- I'm [Shaharyar](name) Afridi
+- I'm [Shaharyar](name) Alizai
+- I'm [Shaharyar](name) Akakhel
+- I'm [Shaharyar](name) Babar
+- I'm [Shaharyar](name) Badrashi
+- I'm [Shaharyar](name) Bangash
+- I'm [Shaharyar](name) Banuchi
+- I'm [Shaharyar](name) Bettani
+- I'm [Shaharyar](name) Burki
+- I'm [Shaharyar](name) Chamkanni
+- I'm [Shaharyar](name) Daulat Khel
+- I'm [Shaharyar](name) Davi
+- I'm [Shaharyar](name) Dawar
+- I'm [Shaharyar](name) Dilazak
+- I'm [Shaharyar](name) Dashti
+- I'm [Shaharyar](name) Durrani
+- I'm [Shaharyar](name) Ehsan
+- I'm [Shaharyar](name) Gandapur
+- I'm [Shaharyar](name) Isa Khel
+- I'm [Shaharyar](name) Jadoon
+- I'm [Shaharyar](name) Kakakhel
+- I'm [Shaharyar](name) Kakar
+- I'm [Shaharyar](name) Kakazai
+- I'm [Shaharyar](name) Kasi
+- I'm [Shaharyar](name) Khalil
+- I'm [Shaharyar](name) Kharoti
+- I'm [Shaharyar](name) Khattak
+- I'm [Shaharyar](name) Khizarkhel
+- I'm [Shaharyar](name) Khakwani
+- I'm [Shaharyar](name) Khudiadadzai
+- I'm [Shaharyar](name) Khulozai
+- I'm [Shaharyar](name) Kuchis
+- I'm [Shaharyar](name) Kundi
+- I'm [Shaharyar](name) Loharani
+- I'm [Shaharyar](name) Lohani
+- I'm [Shaharyar](name) Lodhi
+- I'm [Shaharyar](name) Maghdud Khel
+- I'm [Shaharyar](name) Mahmud Khel
+- I'm [Shaharyar](name) Mahsud
+- I'm [Shaharyar](name) Mamund
+- I'm [Shaharyar](name) Marwat
+- I'm [Shaharyar](name) Mashwani
+- I'm [Shaharyar](name) Musakhel
+- I'm [Shaharyar](name) Miana
+- I'm [Shaharyar](name) Mandokhel
+- I'm [Shaharyar](name) Niazi
+- I'm [Shaharyar](name) Noorzai
+- I'm [Shaharyar](name) Orakzai
+- I'm [Shaharyar](name) Popalzai
+- I'm [Shaharyar](name) Panni
+- I'm [Shaharyar](name) Balailzai
+- I'm [Shaharyar](name) Rouhani
+- I'm [Shaharyar](name) Swati
+- I'm [Shaharyar](name) Sadduzai
+- I'm [Shaharyar](name) Salarzai
+- I'm [Shaharyar](name) Sarbani
+- I'm [Shaharyar](name) Shilmani
+- I'm [Shaharyar](name) Shirani
+- I'm [Shaharyar](name) Sulemani
+- I'm [Shaharyar](name) Sulemankhel
+- I'm [Shaharyar](name) Suri
+- I'm [Shaharyar](name) Tanoli
+- I'm [Shaharyar](name) Tani
+- I'm [Shaharyar](name) Tareen
+- I'm [Shaharyar](name) Tarkani
+- I'm [Shaharyar](name) Tokhi
+- I'm [Shaharyar](name) Turkhel
+- I'm [Shaharyar](name) Umarzai
+- I'm [Shaharyar](name) Uthman khel
+- I'm [Shaharyar](name) Uthmankhel
+- I'm [Shaharyar](name) Wazir
+- I'm [Shaharyar](name) Wur
+- I'm [Shaharyar](name) Yousafzai
+- I'm [Shaharyar](name) Yusaf Khel
+- I'm [Shaharyar](name) Yusafkhel
+- I'm [Shaharyar](name) Zimri
+- This is [Zeeshan](name) Ansari
+- This is [Zeeshan](name) Bukhari
+- This is [Zeeshan](name) Chishti
+- This is [Zeeshan](name) Fareedi
+- This is [Zeeshan](name) Firdausi
+- This is [Zeeshan](name) Gardezi
+- This is [Zeeshan](name) Ghazali
+- This is [Zeeshan](name) Gilani
+- This is [Zeeshan](name) Hamadani
+- This is [Zeeshan](name) Hameed
+- This is [Zeeshan](name) Isfahani
+- This is [Zeeshan](name) Jadgal
+- This is [Zeeshan](name) Jafari
+- This is [Zeeshan](name) Jalali
+- This is [Zeeshan](name) Jamshidi
+- This is [Zeeshan](name) Kashani
+- This is [Zeeshan](name) Kermani
+- This is [Zeeshan](name) Askari
+- This is [Zeeshan](name) Mirza
+- This is [Zeeshan](name) Montazeri
+- This is [Zeeshan](name) Muker
+- This is [Zeeshan](name) Nishapuri
+- This is [Zeeshan](name) Noorani
+- This is [Zeeshan](name) Pirzada
+- This is [Zeeshan](name) Qadiri
+- This is [Zeeshan](name) Qizilbash
+- This is [Zeeshan](name) Razavi
+- This is [Zeeshan](name) Reza
+- This is [Zeeshan](name) Rizvi
+- This is [Zeeshan](name) Sistani
+- This is [Zeeshan](name) Yazdani
+- This is [Zeeshan](name) Zain
+- This is [Zeeshan](name) Zand
+- I am [Zohaib](name) Abbasi
+- I am [Zohaib](name) Abidi
+- I am [Zohaib](name) Alvi
+- I am [Zohaib](name) Arain
+- I am [Zohaib](name) Bukhari
+- I am [Zohaib](name) Baqri
+- I am [Zohaib](name) Dhanial
+- I am [Zohaib](name) Farooqi
+- I am [Zohaib](name) Ghazali
+- I am [Zohaib](name) Hashmi
+- I am [Zohaib](name) Hassan
+- I am [Zohaib](name) Hussain
+- I am [Zohaib](name) Hussaini
+- I am [Zohaib](name) Hyderi
+- I am [Zohaib](name) Idrisi
+- I am [Zohaib](name) Jafari
+- I am [Zohaib](name) Jaspal
+- I am [Zohaib](name) Kazmi
+- I am [Zohaib](name) Khagga
+- I am [Zohaib](name) Makhdoom
+- I am [Zohaib](name) Mousavi
+- I am [Zohaib](name) Masood
+- I am [Zohaib](name) Naqvi
+- I am [Zohaib](name) Najafi
+- I am [Zohaib](name) Osmani
+- I am [Zohaib](name) Qazi
+- I am [Zohaib](name) Rizvi
+- I am [Zohaib](name) Sadat
+- I am [Zohaib](name) Saeed
+- I am [Zohaib](name) Saifi
+- I am [Zohaib](name) Sajjadi
+- I am [Zohaib](name) Salehi
+- I am [Zohaib](name) Sayyid
+- I am [Zohaib](name) Shaikh
+- I am [Zohaib](name) Siddiqui
+- I am [Zohaib](name) Taqvi
+- I am [Zohaib](name) Tirmizi
+- I am [Zohaib](name) Turabi
+- I am [Zohaib](name) Usmani
+- I am [Zohaib](name) Wasti
+- I am [Zohaib](name) Zubairi
+- I am [Zohaib](name) Zaidi
+- I'm [Shaharyar](name) Agha
+- I'm [Shaharyar](name) Baig
+- I'm [Shaharyar](name) Barlas
+- I'm [Shaharyar](name) Effendi
+- I'm [Shaharyar](name) Affendi
+- I'm [Shaharyar](name) Gul
+- I'm [Shaharyar](name) Mirza
+- I'm [Shaharyar](name) Mughal
+- I'm [Shaharyar](name) Pasha
+- [Ali](name)
+- [Ali](name) Khan
+- [Nawaz](name) Shareef
+- [Arham](name)
+- [Ammaar](name)
+- [Aamer](name)
+- [Aryan](name)
+- [Ayaan](name)
+- [Faizan](name)
+- [Hamza](name)
+- [Huzaifa](name)
+- [Rayan](name)
+- [Rohaan](name)
+- [Abbas](name)
+- [Abdul](name)
+- [Abdullah](name)
+- [Ramsha](name)
+- [Halima](name)
+- [Anoshay](name)
+- [Ameena](name)
+- [Urwah](name)
+- [Fatima](name)
+- [Waliyah](name)
+- [Alizay](name)
+- [Merzia](name)
+- [Mawrah](name)
+- [Nahiya](name)
+- [Eisha](name)
+- [Zimmal](name)
+- [Jana](name)
+- [Parishey](name)
+- [Mohsin](name)
+- My name is Muhammad [Shaharyar](name) Khan
+
+## intent:telling_city
+- I live in [Lahore](city)
+- I am located in [Lahore](city)
+- I'm located in [Lahore](city)
+- I am in [Lahore](city)
+- I'm in [Lahore](city)
+- Located in [Lahore](city)
+- in [Lahore](city)
+- [Lahore](city) city
+- reside in [Lahore](city) city
+- I reside in [Lahore](city) city
+- I am currently in [Lahore](city) city
+- I am staying in [Lahore](city) city
+- I am temporarily staying in [Lahore](city) city
+- I am temporarily in [Lahore](city) city
+- I am boarding in [Lahore](city)
+- I am lodging in [Lahore](city)
+- I live in [Karachi](city)
+- I live in [Islamabad](city)
+- I live in [Rawalpindi](city)
+- I live in [Quetta](city)
+- I live in [Peshawar](city)
+- I live in [Faisalabad](city)
+- [Karachi](city)
+- [Lahore](city)
+- [Islamabad](city)
+- [Rawalpindi](city)
+- [Quetta](city)
+- [Peshawar](city)
+- [Faisalabad](city)
+- [Gujranwala](city)
+- [Nawabshah](city)
+- [Sukkur](city)
+- [Thatta](city)
+- [Abbottabad](city)
+- [Bannu](city)
+- [Battagram](city)
+- [Chitral](city)
+- [Charsadda](city)
+- [D.I.Khan](city)
+- [Haripur](city)
+- [Kohat](city)
+- [Mansehra](city)
+- [Mardan](city)
+- [Nowshera](city)
+- [Swat](city)
+- [Swabi](city)
+- [Timergara](city)
+- [Tank](city)
+- [Chaman](city)
+- [Gwadar](city)
+- I live in [Karachi](city)
+
+## intent:telling_primary_programming_languages
+- [Java](programming_lang), [C](programming_lang), [Python](programming_lang)
+- [Java](programming_lang), [C](programming_lang), and [Python](programming_lang)
+- [Java](programming_lang), [C](programming_lang) and [Python](programming_lang)
+- [Java](programming_lang) [C](programming_lang) [Python](programming_lang)
+- I mostly code in [Java](programming_lang)
+- I mostly code in [Python](programming_lang)
+- My main language is [JavaScript](programming_lang)
+- I am a [JavaScript](programming_lang) developer
+- I usually write [Python](programming_lang) programs
+- I usually write [Python](programming_lang) code
+- I usually code in [Python](programming_lang)
+- My main programming language is [JavaScript](programming_lang)
+- [PHP](programming_lang)
+- [PHP](programming_lang) and [Swift](programming_lang)
+- I mostly code in [Python](programming_lang) and [C#](programming_lang)
+- My primary languages are [Python](programming_lang) and [C#](programming_lang)
+- My primary languages are [Python](programming_lang), [Java](programming_lang) and [JavaScript](programming_lang)
+- [SQL](programming_lang)
+- [Swift](programming_lang)
+- [Ruby](programming_lang)
+- [Ruby on Rails](programming_lang)
+- [Objective-C](programming_lang)
+- [Objective C](programming_lang)
+- [Lisp](programming_lang)
+- [Fortran](programming_lang)
+- [Ada](programming_lang)
+- [Pascal](programming_lang)
+- [Delphi](programming_lang)
+- [Object Pascal](programming_lang)
+- [Python](programming_lang)
+- [Java](programming_lang),[C](programming_lang),[C#](programming_lang)
+
+## intent:telling_frameworks
+- I know [Laravel](framework).
+- I know [Django](framework).
+- I know [Spring](framework).
+- I understand [Laravel](framework).
+- I understand [Django](framework).
+- I understand [Spring](framework).
+- I understand [Laravel](framework), [Django](framework), and [Spring](framework).
+- [Laravel](framework) [Django](framework) [Spring](framework)
+- [Laravel](framework), [Django](framework), [Spring](framework)
+- [Laravel](framework), [Django](framework), and [Spring](framework)
+- [Laravel](framework), [Django](framework) and [Spring](framework)
+- [Laravel](framework), [Django](framework), [Spring](framework) and [Express](framework)
+- I use [Laravel](framework) everyday.
+- I use [Spring](framework) on the job.
+- I used [Spring](framework) on the job.
+- I have used [Laravel](framework).
+- I have used [Spring](framework).
+- I have used [Django](framework).
+- I have used [Express](framework).
+- I have worked on [Laravel](framework).
+- I have worked on [Spring](framework).
+- I have worked on [Django](framework).
+- I have worked on [Express](framework), [Laravel](framework), [Spring](framework), [Django](framework)
+- I have worked on [Express](framework), [Laravel](framework), [Spring](framework) and [Django](framework)
+- I have made applications using [Express](framework), [Laravel](framework), [Spring](framework), [Django](framework)
+- I have made applications using [Express](framework), [Laravel](framework), [Spring](framework) and [Django](framework)
+- I used [Laravel](framework) in my several projects.
+- I used [Spring](framework) in all of my freelance work.
+- I used [Laravel](framework) in my FYP.
+- I used [Django](framework) in my final year project.
+- [Spring](framework),[Express](framework),[Django](framework)
+
+## intent:goodbye
+- bye bot
+- goodbye friend
+- bye for now
+- catch you later
+- gotta go
+- see you
+- goodnight
+- have a nice day
+- i'm off
+- we'll speak soon
+- end
+- finish
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:muslim_goodbye
+- khuda hafiz
+- Allah hafiz
+
+## intent:affirm
+- OK
+- okay
+- yes
+- sure
+- indeed
+- of course
+- that sounds good
+- correct
+- absolutely
+- yeah
+- y
+- Y
+- ya
+- yes sure
+- for sure
+- yes yes yes
+- definitely
+- yes, it did.
+- Yes
+- begin
+- please start
+- i am ready
+- ready
+- born ready
+- yes sir
+- yes please
+- you may
+- Yes, please proceed.
+
+## intent:deny
+- nope
+- n
+- N
+- no
+- never
+- nah
+- na
+- I don't think so
+- don't like that
+- no way
+- not really
+- I think not.
+- unfortunately not
+- certainly not
+- not likely
+- sorry
+- I'm afraid I can't
+- I won’t be able to
+- No
+- please wait
+- gimme 5 mins
+- give me some time
+- give me 5 mins
+- can you wait?
+- not ready
+- no sir
+- kindly wait
+
+## intent:programming
+- prefer programming
+- I love programming
+- I prefer programming
+- I like to code
+- I enjoy coding
+- I enjoy programming
+- programming
+- Programming
+
+## intent:non-programming
+- non-programming
+- nonprogramming
+- Non programming
+- prefer non-programming tasks
+- managerial
+- I can not code
+- I am scared of coding
+- I am not a good programmer
+- I hate coding
+- I do not prefer coding
+- I hate programming
+
+## intent:competitive_salary_with_benefits
+- competitive salary with benefits
+- I need competitive salary with benefits
+- I want market competitive salary with benefits
+- I need health facilities
+- I need food vouchers
+- I will need pick and drop
+
+## intent:competitive_salary
+- competitive salary
+- I just need market competitive salary
+- just need market competitive salary with no benefits
+
+## intent:average_salary
+- average salary
+- medium ranged salary
+- medium-ranged salary
+- reasonable salary
+
+## intent:low_salary
+- low salary
+- salary is not a problem
+- less salary is not a big deal
+- less salary
+- wanna gain experience
+- no experience
+
+## intent:tomorrow
+- immediately
+- instantly
+- today
+- next day
+- tomorrow
+
+## intent:this_week
+- this week
+- current week
+
+## intent:next_week
+- next week
+- week to come
+
+## intent:this_month
+- this month
+- current month
+
+## intent:next_month
+- next month
+- month to come
+
+## intent:next_year
+- next year
+- year to come
+
+## intent:after_graduation
+- after graduation
+- after graduating
+- after completing college
+- after completing degree
+- after finishing degree
+
+## intent:leader
+- leader
+- I cannot follow
+- I can not follow
+- I do not like to follow
+- I like to be in control
+- I like to lead
+- I have strong concepts and like to help other teammates
+- I have strong concepts and like to help other team mates
+- I am a leader
+
+## intent:follower
+- follower
+- I am a follower
+- I follow better
+- I cannot lead
+- I can not lead
+- I need a supervisor
+- I am better with an instructor
+- It is better to be with a guide
+
+## intent:collaborative
+- collaborative
+- I like to work in a team
+- It is easy with a partner
+- It is easy with a team
+- It is easy with a group
+- with a group
+- with a team
+- with a partner
+
+## intent:independent
+- independent
+- I can manage everything alone
+- I am good without people
+- Alone is better
+- I do not want to depend on others
+- I do not like to depend on other people
+- without people
+- without team
+- without group
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks man
+- Appreciate that
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks
+
+## intent:muslim_thanks
+- jazak Allah
+- jazak Allah khair
+- barakAllah fikum
+- barak'Allah fikum
+
+## intent:answer_the_question
+- I firmly believe in taking a collaborative approach to each project so when I saw a position with your company to join the production team I knew I had to apply. I've seen your work in theatrical production, and your behind-the-scenes video really inspired me because I saw the teamwork in action. I love working with a team to achieve a common goal, and I know my background in production has prepared me for this role. I look forward to becoming a valued contributor to this phenomenal team.
+- I read an article a few months back on the outreach your company does within the community. Giving back and volunteering is a significant part of my own personal values, and I remember feeling excited that a company values the community as much as I do. That excitement grew when I saw there was a job opening in my field here. I would really love coming to work each day, knowing that I am helping to make a difference in the community through my work here.
+- I have used your software for many years and am consistently impressed with the innovation and developments made in the space. I also appreciate your dedication to education, providing your customers with free demos to learn how to use your products effectively. I would love to be a part of this innovative team and use my skills to continue the groundbreaking work you are doing here.
+- I've seen your company consistently listed as one of the top places to work. I've read employee testimonials and heard of your enthusiasm for encouraging employee growth through education, training, and vast resources. I already know that engaged employees produce better work, and that is evident in the most recent campaign you created. I would love to join your innovative team, continue to create great work, and grow within the company by learning new skills.
+- I’ve heard of your reputation in the industry, and I would be proud to work for a company with such an excellent track record and a strong example of leadership in the industry. I have a friend that works in the accounting department, and he told me that the culture here is top notch and that management supports continuing education and learning on the job while rewarding hard work. Based on his assessment and encouragement, I think that I would fit in perfectly with the team here to make an immediate impact.
+- I saw an article about your new CEO and the company’s renewed investment in innovation. As a natural innovator, this drew me to the position with your company because I know that I will thrive in a situation where innovation is at the forefront of everything we do.
+- This organization is internationally known for the technology products you create, and my experience in technology and developing new products has me intrigued by this position. I saw that last year you won multiple awards for the new processor you designed, and I would love to be on a team that is collaborative, hardworking, and resourceful.
+- It’s simple, I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. My research has led me to four fundamental ways that my goals align with yours, and here they are.
+- I first found your company several years ago, and I was inspired by the tone and style of your brand. You market yourselves to a millennial audience, which I can relate to. After following you and observing your job openings for several years while working my way up at a smaller marketing firm, I believe I am now ready to join your exceptional team, enhancing and driving forward a brand that is a natural extension of my own beliefs.
+- Before the recruiter called me about this opportunity, I must admit that I didn't know much about your company. I've been doing some research in preparation for this discussion, and I need to say that I'm impressed by your work and your vision for the future. I'm genuinely interested in getting more involved in the technological side of marketing, and I read that you are growing in that area. As an experienced marketer with an emphasis in technology, I know I can bring a lot of value to the team.
+- I firmly believe in taking a collaborative approach to each project so when I saw a position with your company to join the production team I knew I had to apply.
+- Punctuality, speed of work, and maybe communication with them. One of the reasons why I had to leave my last job was that I didn’t handle the workload. The working environment was extremely fast-paced, and half of the workers struggled to meet the quotes. But I have the feeling that if the communication with the management was better–and certainly we could impact it as employees, things could have turned out differently. Anyway, I learned my lesson, and in my new job I want to provide constructive feedback to my managers. And I also want to work in a different field, one where quality matters more than speed of work. That’s the reason I am applying with you.
+- Speaking honestly, I am not sure if they saw any areas for improvement. At least they never told me anything. I decided to leave the company, it wasn’t the decision of the manager. They seemed satisfied with my work. But I did not feel intellectually challenged anymore, and lost my motivation completely. I asked them for promotion but the answer was negative and I decided to leave and look for another job. Having said that, I do not consider myself a perfect employee. I am aware of my weaknesses–though my former manager might not spot them. I try to improve on them.
+- They would like me to work overtime each day, to have a total obedience to the managers and a to demonstrate a superb loyalty to the company. But that is not something I am looking for in my life. I seek a decent work-life balance, because I have a family and I try to pursue some harmony in life. Work and money isn’t everything for me, though I certainly had some colleagues with such a mindset–and they were very popular with the managers. I actually decided to apply for a job with you because I like the working hours and the fact that nobody stays overtime here.
+- I really have no idea. You would have to ask them. My contract was terminated without any apparent explanation. I tried my best in work, and did not feel that I missed on my targets or anything. But they still decided to terminate my contract, and I have a feeling–though I can be wrong–that it had a lot to do with personal preferences and with protecting their position in the company. I feel that they would be more happy if I didn’t try to so hard and did not achieve such good results. Because with my results I was a threat for their position. And that may be the real reason why they terminated my contract. They had the power and they did it.
+- I often asked my manager for feedback on my work, because I was new in the store, and wanted to do the things well. They felt that I should improve my communication with the customer. They observed that I did not keep eye contact, and I also often missed an opportunity for an up-sell. They mentioned these two things often, and I honestly think that I improved somehow over time. It was a short time contract, however, only for the summer, and I didn’t have enough time to perfect my customer service skills.
+- This is my first job application, so I cannot really tell, because I have never worked under anyone. However, I want to assure you that I am receptive to constructive feedback, and would love to have a manager who’d help me to grow as a professional in this field, and perhaps also as a human being. Because I know that we are often blind to our weaknesses, and we need others to tell us how we can improve, in both work and life outside of work.
+- I think that before anything else, they’d like me to improve on my leadership skills. We missed a natural leader in our team, and they wanted me to step into the leadership role. But I didn’t know how to do so. They didn’t provide any training, and I neither am a born leader, nor have years of experience under my belt. I failed to meet their expectations, and had to go. But I do not consider it a tragedy. It’s simply how things are with employment and jobs–sometimes there is a great match and sometimes we have to leave and find a better match for our skills and personality. The second is the case with my last job, and I hope for a different outcome in the next one.
+- This is my first job application, so I cannot really tell, because I have never worked under anyone.
+- I have been at my company for three years now and have learned a lot from working with some amazing salespeople. I worked my way up to regional sales manager 18 months ago and my region has beat our sales projections by at least 25% each quarter since. However, I am starting to feel like I need some new challenges. This position really appeals to me because it would allow me to manage a bigger team and sell more innovative products.
+- I have loved my time at Acme Financial and am really proud of the successful marketing campaigns that I have conceived and managed. However, I think the time has come for a change. We are going through some management changes right now and a lot of projects are on hold.
+- I have been thinking for a while that I’d like to work for a bigger company with more opportunities for growth. This position seems like a great fit because of my successful background in online marketing and my experience running a team.
+- Unfortunately, the company’s biggest client went out of business at the beginning of the year and that had a major effect on revenues.
+- As a result, they had to eliminate some positions and I was among the five most recently hired in our department. I am proud of the work that I did there, I got stellar performance reviews, and my former manager is one of my strongest references.
+- After some management changes, it became clear that the new department director had new expectations for the role that didn’t really mesh with my strengths. Ultimately, she decided to bring in someone from her previous organization who had more sales experience.
+- The experience taught me that my real talent is in customer service and I know I would be a major asset in a role like this one, which focuses on improving the customer experience. Would you like me to tell you more about my experience in that area?
+- At my current organization, I’ve expanded my professional skillset and built great relationships. Recently, it became clear to me that I need motivation from a strong mission while continuing to grow professionally. The mission of your company to serve underrepresented communities is something I’m excited to work on.
+- I’ve been working on my communication and collaboration skills when it comes to facilitating large, complex projects. The opportunities to grow that expertise are limited in my current role, so I was excited to learn about this opportunity, where collaboration and transparency are mentioned as important components of the job.
+- I’m motivated by a lot of factors, and client satisfaction, as well as peer and manager approval, are at the top of the list. But compensation is also a motivator for me and I’m excited about the opportunity to sell a product I’m passionate about, exceed my targets and celebrate when I’ve surpassed my goals.
+- I’ve learned a lot in my current role, but I’m looking for an opportunity that provides more challenges as I continue developing my skills and abilities
+- While I’ve gained important skills in my experience with this role, like communication and time management, I want to focus more on honing my leadership and writing skills. I’m excited that this role provides more opportunities to grow those skills
+- I know that I do my best work when I have a healthy balance between work and life. The commitments I make to my managers and colleagues mean a lot to me, and I plan my days around following through on those commitments efficiently. It’s important to me to work for a company that values my ownership of my schedule and allows for flexibility when appropriate.
+- I love my role and coworkers, but I’ve come to a point where there are no longer growth opportunities on my team. Can you tell me a bit about growth opportunities for this job, and what the company does to develop employee careers?
+- I’m looking for a new opportunity that doesn’t exist at my current company where I can develop and expand my account management skills.
+- Though I’ve learned a lot at my company, from my research about this opportunity, I can see that the position is a better fit for where I want to take my career—specifically, collaborating with cross-functional teams to develop innovative products for your users.
+- In retrospect, I understand my former employer and I had different expectations about what success meant in my role. As I reflect on that experience, I realize there are some things I could have done differently. I learned a lot, and I’m excited about the opportunity to bring that maturity to my next job. This role is in line with my skills and abilities, and the direction I’d like my career to take.
+- Unfortunately I was impacted by a company restructuring that resulted in a loss of 15% of our employees. In the meantime, I’ve been thoughtfully considering my next move, reconnecting with my network and researching opportunities. I’m excited about this position because it exemplifies the parts of my past work I enjoyed the most and will position me in the direction I’ve always wanted to pursue in my career.
+- My values no longer align with the company mission
+- I would like additional compensation
+- The company I worked for went out of business
+- I feel undervalued in your current role
+- I am looking for a new challenge
+- I want a job with better career growth opportunities
+- I had to leave due to family or personal reasons
+- I don’t like the hours at my current job
+- I decided to relocate to a new city
+- I want to change career paths
+- I decided to go back to school
+- I decided to go back to education
+- I decided to go back to college
+- I decided to go back to university
+- My personality didn’t align with the company culture
+- I found a better opportunity
+- I had to leave for health reasons that have since been resolved
+- I was laid off or let go
+- I wanted to work in a different industry
+- I would like more flexibility
+- The company values don’t align with my own
+- Would like a shorter commute to work
+- Would like to relocate
+- I want to work in an industry I’m more passionate about
+- I don’t think I’m paid my market value
+- I think I’ve learned all I can in this role
+- Desire to learn more or grow a current skill
+- My career progression has stalled
+- I would like the ability to work independently more often
+- My company was restructuring
+- The duties of my role have changed or been reduced
+- Would like less responsibility
+- Would like more responsibility
+- I need to be closer to home
+- Looking for better career prospects
+- I want to work for a bigger company
+- I’ve been working at my company for a long time and now ready for a change
+- I would like to work better hours
+- Desire to have a better work and life balance
+- I was made redundant
+- No, I have not done any freelancing
+- Yes, There you go my freelancing portfolio
+- Yes. Here is my freelancing profile link
+- Yes, I have done freelancing but it is irrelevant to this job position
+- It is a big company known for its innovation and market leadership.
+- I love taking leadership roles and I am especially passionate about developing applications that interact with hardware devices.
+- I have a BS in Software Engineering from CUI, Lahore Campus. I also have taken some online courses relevant to my degree to expand my knowledge.
+- My highest gpa ever was 3.7
+- Aww! It was 2.3
+- My final year project was really similar to this job of yours. I will provide those code samples to you.
+- Yes, I have done a little freelance work. Here is my profile link: https://fiverr.com/Shaharyar/44411
+
+## synonym:female
+- Female
+- f
+- fe
+- fem
+- femle
+- femal
+- fema
+- feml
+
+## synonym:male
+- Male
+- m
+- mle
+- mal
+- ma
+
+## synonym:no
+- negative
+- nope
+- n
+- N
+- never
+- nah
+- na
+- I don't think so
+- don't like that
+- no way
+- not really
+- I think not.
+- unfortunately not
+- certainly not
+- not likely
+- sorry
+- I'm afraid I can't
+- I won’t be able to
+
+## synonym:yes
+- affirmative
+- positive
+- OK
+- okay
+- sure
+- indeed
+- of course
+- that sounds good
+- correct
+- absolutely
+- yeah
+- y
+- Y
+- ya
+- yes sure
+- for sure
+- yes yes yes
+- definitely
+- yes, it did.
+- yes
+
+## lookup:name
+  data/lookups/names.txt
+
+## lookup:city
+  data/lookups/cities.txt
+
+## lookup:programming_lang
+  data/lookups/programming languages.txt
+
+## lookup:framework
+  data/lookups/frameworks.txt

@@ -1,0 +1,167 @@
+TurboGears
+Bottle
+Onsen UI
+Meteor
+Chromium Embedded Framework
+Sinatra
+Weblocks
+ColdFusion on Wheels
+CppCMS
+Scalatra
+PRADO
+Yesod
+Fatfree
+Fat-Free
+Fat-Free Framework
+Snap
+Ionic
+Apache Click
+Onsen UI
+PHPixie
+Robot Framework
+Text Services Framework
+Modular Audio Recognition Framework
+Data Analytics Acceleration Library
+jQWidgets
+.NET Compact Framework
+BALL
+RichFaces
+Accord.NET
+CubicWeb
+ActiveX
+Apache Spark
+PrimeFaces
+Selenium
+Kohana
+Snap
+PureMVC
+Mojolicious
+Vapor
+Kitura
+Fusebox
+Seaside
+Squeak Enterprise Aubergines Server with Integrated Development Environment
+Express.js
+Express js
+Pop PHP Framework
+Pop PHP
+Wt
+Padrino
+Merb
+Nitro
+Camping
+OpenXava
+Blazor
+Express
+Perfect
+CppCMS
+TurboGears
+Webware for Python 2
+Fat-Free Framework for PHP
+PRADO PHP Framework
+Weblocks
+ColdFusion on Wheels
+Pylons
+Express
+ASP.NET
+.NET Core
+Prism
+MCCM Light
+Atom
+Ionic
+React-Native
+Caliburn Micro
+Active Server Pages
+Silverlight
+ASP
+.NET
+Rails
+Ruby on Rails
+Spring
+Java EE
+Java Enterprise Edition
+Struts
+Hibernate
+Apache Wicket
+JSF
+Java Server Faces
+Dropwizard
+Grails
+ATG
+Play
+Apache Hadoop
+GWT
+Google Web Toolkit
+Vaadin
+Spark
+OpenXava
+Vert.X
+Tapestry
+Jersey
+Open Service Gateway initiative
+OSGi
+Drools
+MyBatis
+Apache Mina
+SOAP
+Spring Web MVC
+Spring MVC
+ASP.NET
+Ajax framework
+JavaScript framework
+Web framework
+Web Application framework
+WF
+WAF
+Middleware
+Cactus framework
+Application framework
+Enterprise Architecture framework
+Oracle Application Development Framework
+Oracle ADF
+Backbone
+Ember
+Vue
+Angular
+Meteor
+Mithril
+Node.js
+Node js
+Polymer
+Aurelia
+MVC Laravel
+Laravel
+Symfony
+CodeIgniter
+Zend Framework
+FuelPHP
+Horde
+Slim
+Phalcon
+Aura
+Yii 2
+Yii
+Zend
+Sinatra
+Zikula
+Cake PHP
+Django
+Dash
+Bottle
+CherryPy
+CubicWeb
+AIOHTTP
+Web2Py
+TurboGears
+Tornado
+Sanic
+Pyramid
+Pylons Framework
+Pycnic
+Hug
+Growler
+Giotto
+Flask
+Falcon
+Bootstrap
+React

@@ -1,0 +1,67 @@
+Islamabad	
+Attock
+Bahawalpur
+Burewala
+Chakwal
+Chiniot
+Faisalabad
+Gujar Khan
+Gujranwala
+Gujrat
+Jhang
+Jhelum
+Kallar Syedan
+Kasur
+Kharian
+Lahore
+Mianwali
+Multan
+Murree
+Rahim Yar Khan
+Rawalpindi
+Sadiqabad
+Sahiwal
+Sargodha
+Sheikhupura
+Sialkot
+Taxila
+Toba Tek Singh	
+Badin
+Hyderabad
+Jacobabad
+Karachi
+Khairpur
+Larkana
+Mirpur Khas
+Nawabshah
+Sukkur
+Thatta	
+Abbottabad
+Bannu
+Battagram
+Chitral
+Charsadda
+D.I.Khan
+Haripur
+Kohat
+Mansehra
+Mardan
+Nowshera
+Peshawar
+Swat
+Swabi
+Timergara
+Tank
+Chaman
+Gwadar
+Khuzdar
+Quetta
+Ziarat
+Bagh
+Bhimber
+Kotli
+Mirpur
+Muzaffarabad
+Rawalakot
+Gilgit
+Skardu

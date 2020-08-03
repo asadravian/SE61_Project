@@ -1,0 +1,10 @@
+#myNav > li > a:hover {
+  color: #e4ab2e;
+}
+
+ul li a {
+  color: white;
+}
+#nw-header {
+  background-color: #04284a;
+}
